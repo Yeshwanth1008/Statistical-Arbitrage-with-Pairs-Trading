@@ -23,5 +23,3 @@ This repository contains a complete workflow for statistical arbitrage using pai
 - `multi_pair_results.csv`: Results output
 - `README.md`: Project documentation
 
-## Author
-Yeshwanth1008
